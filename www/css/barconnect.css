@@ -1,10 +1,68 @@
 @CHARSET "UTF-8";
 
-.container {
-	width: 320px;
+html, body {
+	margin: 0;
+	padding: 0;
+
+	background-color: #333;}
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	color: #333333;
 }
 
-.btn-menu {
-	display: block;
-	margin: 0 auto 10px auto;
+h1, h2, h3 {
+	text-align: center;
+	text-rendering: optimizelegibility;
+}
+
+.container {
+	width: 100%;
+}
+
+.header-wrapper {
+	background-color: #333;
+	height: 50px;
+	padding: 20px;
+}
+
+.header {
+	color: #ccc;
+}
+
+.menu-wrapper {
+	background-color: #fff;
+}
+
+ul.menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul.menu li {
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	border-top: 1px solid #333;
+}
+
+ul.menu li a {
+	color: #333;
+	font-size: 1.7em;
+	width: 100%;
+}
+
+.footer-wrapper {
+	background-color: #333;
+	height: 50px;
+	padding-top: 20px;
+}
+
+.footer {
+	text-align: center;
+	color: #ccc;
 }
