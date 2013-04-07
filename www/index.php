@@ -6,7 +6,6 @@
 		<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
 		<link href="css/bootstrap-responsive.css" rel="stylesheet" type="text/css">
 		<link href="css/barconnect.css" rel="stylesheet" type="text/css">
-		<meta name="viewport" content="user-scalable = yes">
 	</head>
 	<body>
 		<div class="container">

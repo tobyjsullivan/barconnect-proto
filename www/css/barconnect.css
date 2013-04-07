@@ -1,5 +1,9 @@
 @CHARSET "UTF-8";
 
+.container {
+	width: 320px;
+}
+
 .btn-menu {
 	display: block;
 	margin: 0 auto 10px auto;
