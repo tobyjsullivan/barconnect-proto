@@ -14,10 +14,10 @@
 			</div>
 			<div class="menu-wrapper">
 				<ul class="menu">
-					<li><a href="#">Lighthouse Brewery - Lighthouse Lager (14oz)</a></li>
-					<li><a href="#">Lighthouse Brewery - Racerocks Ale (14oz)</a></li>
-					<li><a href="#">Philips Brewery - Blue Buck (14oz)</a></li>
-					<li><a href="#">Philips Brewery - Feature Beer (14oz)</a></li>
+					<li><a href="/order-confirm.php?order=Lighthouse%20Brewery%20-%20Lighthouse%20Lager%20(14oz)">Lighthouse Brewery - Lighthouse Lager (14oz)</a></li>
+					<li><a href="/order-confirm.php?order=Lighthouse%20Brewery%20-%20Racerocks%20Ale%20(14oz)">Lighthouse Brewery - Racerocks Ale (14oz)</a></li>
+					<li><a href="/order-confirm.php?order=Philips%20Brewery%20-%20Blue%20Buck%20(14oz)">Philips Brewery - Blue Buck (14oz)</a></li>
+					<li><a href="/order-confirm.php?order=Philips%20Brewery%20-%20Feature%20Beer%20(14oz)">Philips Brewery - Feature Beer (14oz)</a></li>
 					<li><a href="/drinks.php">Back to Drink Menu</a></li>
 				</ul>
 			</div>
