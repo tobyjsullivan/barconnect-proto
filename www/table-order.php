@@ -15,13 +15,15 @@
 			<div class="display-wrapper">
 				<div class="display table-orders">
 					<div class="row">
+						<a href="/establishment.php"><div class="back-btn"><h3>&#x2717; Back to Tables</h3></div></a>
 						<h2>Table 6 - Waiting Orders</h2>
 					</div>
-					<div class="row">
-						<p><a href="#" class="checkbox checked">&nbsp;</a> 1 x Philips Brewery - Blue Buck (14 oz) - 1:47</p>
+					<div class="row orders">
+						<p><a href="#"><span class="checkbox">&nbsp;</span> 1 x Philips Brewery - Blue Buck (14 oz) - 1:47</a></p>
+						<p><a href="#"><span class="checkbox">&#x2713;</span> 1 x Philips Brewery - Blue Buck (14 oz) - 0:37</a></p>
 					</div>
 					<div class="row">
-						<p><a href="#" class="checkbox">&#x2713;</a> 1 x Philips Brewery - Blue Buck (14 oz) - 0:37</p>
+						<a href="javascript:confirm('Clear 2 orders?');"><div class="clear-btn"><h3>Clear Checked Orders</h3></div></a>
 					</div>
 				</div>
 			</div>

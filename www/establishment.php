@@ -131,48 +131,6 @@
 							<h2>Table 19 - 0:00</h2>
 						</div>
 					</div>
-					<div class="row">
-						<div class="table-btn">
-							<h2>Table 16 - 0:37</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 17 - 1:47</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 18 - 0:42</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 19 - 0:00</h2>
-						</div>
-					</div>
-					<div class="row">
-						<div class="table-btn">
-							<h2>Table 16 - 0:37</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 17 - 1:47</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 18 - 0:42</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 19 - 0:00</h2>
-						</div>
-					</div>
-					<div class="row">
-						<div class="table-btn">
-							<h2>Table 16 - 0:37</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 17 - 1:47</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 18 - 0:42</h2>
-						</div>
-						<div class="table-btn">
-							<h2>Table 19 - 0:00</h2>
-						</div>
-					</div>
 				</div>
 			</div>
 			<div class="footer-wrapper">
