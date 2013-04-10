@@ -15,7 +15,7 @@
 			</div>
 			<div class="menu-wrapper">
 				<ul class="menu">
-					<li><a href="/drinks.php">Drink Menu</a></li>
+					<a href="/drinks.php"><li>Drink Menu</li></a>
 					<li><a href="#">Call Waitress</a></li>
 					<li><a href="#">About Bar Connect</a></li>
 				</ul>
